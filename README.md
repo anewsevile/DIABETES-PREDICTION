@@ -1,17 +1,28 @@
 # Diabetes Prediction using Machine Learning
 
-This project predicts whether a person has diabetes based on medical data.
+This project predicts whether a person is diabetic based on medical attributes using a machine learning model.
 
-## Technologies Used
+## 📊 Dataset Features
+- Glucose
+- Blood Pressure
+- BMI
+- Age
+- Insulin
+
+## ⚙️ Technologies Used
 - Python
 - Pandas
 - Scikit-learn
+- Matplotlib
 - Google Colab
 
-## Features
-- Data preprocessing
-- Model training (Random Forest / Logistic Regression)
-- Prediction system
+## 🚀 Model Used
+- Random Forest Classifier
 
-## How to Run
-Open the notebook and run all cells.
+## 📈 Output
+The model predicts whether a person is diabetic (0 = No, 1 = Yes)
+
+## ▶️ How to Run
+1. Open the notebook
+2. Run all cells
+3. Enter values to test prediction
